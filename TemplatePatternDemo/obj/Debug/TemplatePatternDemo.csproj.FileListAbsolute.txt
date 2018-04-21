@@ -1,0 +1,7 @@
+C:\Users\Ekta\source\repos\TemplatePatternDemo\TemplatePatternDemo\bin\Debug\TemplatePatternDemo.exe.config
+C:\Users\Ekta\source\repos\TemplatePatternDemo\TemplatePatternDemo\bin\Debug\TemplatePatternDemo.exe
+C:\Users\Ekta\source\repos\TemplatePatternDemo\TemplatePatternDemo\bin\Debug\TemplatePatternDemo.pdb
+C:\Users\Ekta\source\repos\TemplatePatternDemo\TemplatePatternDemo\obj\Debug\TemplatePatternDemo.csprojResolveAssemblyReference.cache
+C:\Users\Ekta\source\repos\TemplatePatternDemo\TemplatePatternDemo\obj\Debug\TemplatePatternDemo.csproj.CoreCompileInputs.cache
+C:\Users\Ekta\source\repos\TemplatePatternDemo\TemplatePatternDemo\obj\Debug\TemplatePatternDemo.exe
+C:\Users\Ekta\source\repos\TemplatePatternDemo\TemplatePatternDemo\obj\Debug\TemplatePatternDemo.pdb
